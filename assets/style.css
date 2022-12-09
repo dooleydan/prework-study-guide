@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+<<<<<<< HEAD
 }
 header,
 footer {
@@ -39,4 +40,6 @@ p {
     box-shadow: 5px 10px #888888;
 =======
 >>>>>>> 99823f4 (1st commit)
+=======
+>>>>>>> 4646c7f (git add)
 }
