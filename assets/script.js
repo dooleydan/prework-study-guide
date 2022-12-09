@@ -1,6 +1,6 @@
 var topics = "HTML";
-
-if (topic === 'HTML') {console.log("Let's study HTML!");
+if (topic === 'HTML') {
+    console.log("Let's study HTML!");
 } else if (topic === 'CSS') {
     console.log("Let's study CSS!");
 } else if (topic === 'Git') {
