@@ -4,9 +4,15 @@
 }
 header,
 footer {
+<<<<<<< HEAD
     width: 100%;
     height: 120px;
     background-color: blue;
+=======
+    width 100%;
+    height: 120px;
+    background-color: orange;
+>>>>>>> 99823f4 (1st commit)
     color: white;
 }
 h1,
@@ -27,4 +33,16 @@ ul {
 p {
     text-align: center;
     font-size: 30px;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+}
+.card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888888;
+=======
+>>>>>>> 99823f4 (1st commit)
+>>>>>>> 2cc9d99 (1st commit)
 }
