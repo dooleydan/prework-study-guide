@@ -9,7 +9,7 @@ function listTopics() {
 function selectTopic() {
  if (topics === 'HTML')  {
      console.log("Let's study HTML!");
- }else if (topics === 'CSS') {
+ } else if (topics === 'CSS') {
      console.log("Let's study CSS!");
  } else if (topics === 'Git') {
      console.log("Let's study Git!");
